@@ -20,3 +20,8 @@
 
 - Fix 7.1 channel playback failure.
 - Contributors👉 Ronghui Zhu
+
+## 1.0.3 (2025-11-28)
+
+- Correct the version.
+- Contributors👉 Yuchao Pan
